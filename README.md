@@ -3,7 +3,7 @@
 ```
 python -m venv env
 ```
-#then activate it:
+# then activate it:
 # for linux and mac:
 
 ```
